@@ -62,6 +62,8 @@ set(CHAPTERS
     5.advanced_lighting
     6.pbr
     7.in_practice
+    HW3
+    HW7
 )
 
 set(1.getting_started
@@ -164,6 +166,14 @@ set(7.in_practice
     1.debugging
     2.text_rendering
     #3.2d_game
+)
+
+set(HW3
+    robotArm
+)
+
+set(HW7
+    codes
 )
 
 
